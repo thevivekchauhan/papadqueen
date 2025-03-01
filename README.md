@@ -5,7 +5,7 @@ A Papad Queen Website made with React.js Framework.
 
 ## Demo
 
-https://reactjs-ecommerce-app.vercel.app/
+Comming soon...
 
 ## Features
 
