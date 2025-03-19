@@ -17,11 +17,6 @@ Comming soon...
 - Eco-Friendly Packaging
 
 
-## Screenshots
-
-![App Screenshot](https://i.ibb.co/fQ293tm/image.png)
-
-
 
 ## Run Locally
 
