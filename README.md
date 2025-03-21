@@ -5,7 +5,7 @@ A Papad Queen Website made with React.js Framework.
 
 ## Demo
 
-Comming soon...
+https://papadqueen.netlify.app/
 
 ## Features
 
